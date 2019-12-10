@@ -4,4 +4,4 @@ copy from [WebCodeFarmer/vue-address](https://github.com/WebCodeFarmer/vue-addre
 
 single file instead of component
 
-[demo](https://blog.trim21.cn/vue2-address-selector/)
+<https://trim21.github.io/vue2-address-selector/>
